@@ -13,3 +13,4 @@ Additional research required on:
 - Hierarchical Temporal Memory (HTM) neural network for semi supervised anomaly detection
 - "statistical surprise"
 - Kaplan meier curve and "death estimation" to estimate customer fidelity and create retention algorithms. What segment or cluster of clients is the best recipient of investment money to ensure the best long term profitability.
+- URaiden token offchain payment channels verified periodically on Blockchain.
